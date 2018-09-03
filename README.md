@@ -1,5 +1,5 @@
 # Languages
-Help translate https://fortnitestats.com to other languages.
+Help translate https://fortnitestats.org to other languages.
 
 # How to get started?
 
